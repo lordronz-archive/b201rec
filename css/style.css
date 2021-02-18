@@ -1,0 +1,15 @@
+#gameScreen {
+    border: 1px solid black;
+}
+
+#lord {
+    display: none;
+}
+
+#cannon {
+    display: none;
+}
+
+#brick {
+    display: none;
+}
